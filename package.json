@@ -1,0 +1,26 @@
+{
+  "name": "ai-chatbox",
+  "version": "1.0.0",
+  "description": "Simple AI Chatbox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^4.22.1",
+    "node-fetch": "^2.7.0",
+    "openai": "^4.104.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-lahari93/ai-chatbox-lali.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P-lahari93/ai-chatbox-lali/issues"
+  },
+  "homepage": "https://github.com/P-lahari93/ai-chatbox-lali#readme"
+}
